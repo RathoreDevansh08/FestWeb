@@ -1,10 +1,9 @@
 body{
   background-image: url(https://images.pexels.com/photos/853199/pexels-photo-853199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 100%;
-
+  /*background-repeat: no-repeat;*/
+  /*background-size: cover;*/
+  /*width: 100%;
+  height: 100%;*/
 }
 
 ul.old {
@@ -12,9 +11,7 @@ ul.old {
   margin:-10px;
   padding: 5px;
   /*padding: 0;*/
-  overflow: hidden;
   background-color: #333;
-  position: fixed;
   width: 100%;
   top:0;
 }
@@ -43,6 +40,13 @@ li a:hover {
   text-decoration: none;
 } */
 
+
 div.container{
   color:white;
+  padding:20%;
+  background-image: url(https://images.pexels.com/photos/853199/pexels-photo-853199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-repeat: no-repeat;
+  background-size: 100% ;
+  width: 100%;
+  height: 100%;
 }
